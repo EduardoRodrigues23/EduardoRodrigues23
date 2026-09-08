@@ -1,8 +1,9 @@
 # Olá! Eu sou Eduardo Augusto 👋
 
 🎓 Estudante de Sistemas de Informação na CESAR School  
-💻 Interesse em Desenvolvimento e Suporte de TI  
-📋 Interesse em Gestão de Projetos  
+📋 Interesse em Gestão de Projetos
+💻 Interesse em Desenvolvimento
+🛠️ Interesse em Suporte de TI 
 🔄 Conhecimentos em metodologias ágeis, como Scrum e Kanban
 
 ## 🛠️ Tecnologias
